@@ -1,0 +1,4 @@
+plugins = [
+    "Duckonaut/split-monitor-workspaces",
+    { local = "/home/angus/.config/hypr/plugins/csgo-vulkan-fix"},
+]
